@@ -2,8 +2,8 @@
 ## 👩‍💻 About Me
 
 🎓 B.Tech CSE @ GLA University (2023-2027)  
-💻 Frontend Dev | Django Learner | ML Enthusiast  
-🌱 Currently learning: React, NumPy, Pandas, Machine Learning  
+💻 Frontend Dev | DSA LEARNER | ML Enthusiast  
+🌱 Currently learning: NumPy, Pandas, Machine Learning  
 🔭 Building: AI-Powered Fashion & Skincare Recommender – "Krush"  
 
 📫 Let's connect:[LeetCode](https://leetcode.com/u/bhoomika_agrawal/)
