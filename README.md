@@ -58,4 +58,4 @@
 
 ## 💡 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bhoomika-agrawal?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/bhoomika-agrawal/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/bhoomika-agrawal?theme=dark&font=baloo&ext=contest)](leetcode.com/u/bhoomika_agrawal/)
