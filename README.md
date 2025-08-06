@@ -18,7 +18,7 @@
 ## 👩‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Hi+I'm+Kratika+Agrawal.;Frontend+Developer+%7C+Django+Learner.;ML+Beginner+%7C+Python+Enthusiast.;Currently+working+on+Krush+AI+Fashion+Platform." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Hi+I'm+bhoomikaagrawal.;Frontend+Developer+%7C+Django+Learner.;ML+Beginner+%7C+Python+Enthusiast.;Currently+working+on+Krush+AI+Fashion+Platform." alt="Typing SVG" />
 </p>
 
 
@@ -62,4 +62,4 @@
 
 ## 💡 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kratika_agrawal_?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/kratika_agrawal_/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/bhoomika-agarwal?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/kratika_agrawal_/)
