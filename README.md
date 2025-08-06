@@ -41,7 +41,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🧩 Backend & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🧠 AI/ML & Data
@@ -49,9 +48,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🗃 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -62,4 +58,4 @@
 
 ## 💡 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bhoomika-agarwal?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/kratika_agrawal_/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Bhoomika-Agarwal?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/kratika_agrawal_/)
